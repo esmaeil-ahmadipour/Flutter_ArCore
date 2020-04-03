@@ -26,8 +26,8 @@ flutter:
 
 
 
-  # assets:
-  #  - images/a_dot_burr.jpeg
+  assets:
+    - asset/earth.jpg
   #  - images/a_dot_ham.jpeg
 
 
